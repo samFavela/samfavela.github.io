@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/droidstudio.png
-title: CodeLab 4.1 : Clickable Images
+title: CodeLab 4.1 Clickable Images
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
