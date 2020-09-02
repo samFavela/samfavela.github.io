@@ -13,13 +13,6 @@ labels:
 summary: For a class assignemt, I made an app that simulates a dessert ordering app.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/droidsutdio.png">
-  <img class="ui image" src="../images/droidsutdio.png">
-  <img class="ui image" src="../images/droidsutdio.png">
-  <img class="ui image" src="../images/droidsutdio.png">
-</div>
-
 Honestly, I do not remember much about this app and I do not intend to actually use this on my "real" Techfolio.
 
 For a link to the file: https://github.com/samFavela/CodeLab04.1
