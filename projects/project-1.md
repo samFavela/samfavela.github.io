@@ -5,7 +5,7 @@ image: images/droidstudio.png
 title: CodeLab 4.1 Clickable Images
 permalink: projects/codelab4.1
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-02-10
 labels:
   - Robotics
   - Arduino
