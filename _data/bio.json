@@ -9,10 +9,10 @@
     "summary": "I am studying for a B.S. in Computer Science at Aurora Univerity. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "60505",
+      "city": "Aurora",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
@@ -22,18 +22,13 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "samuelguzmanfavela",
+        "url": "https://www.linkedin.com/in/samuel-guzman-favela-3515421a3/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "samguzmanfavela",
+        "url": "https://twitter.com/samguzmanfavela"
       }
     ]
   },
