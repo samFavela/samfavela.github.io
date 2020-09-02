@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/droidsutdio.png
+image: images/droidstudio.png
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
