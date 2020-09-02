@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/droidstudio.png
 title: CodeLab 4.1 Clickable Images
-permalink: projects/codelab4.1
+permalink: https://github.com/samFavela/CodeLab04.1
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-10
 labels:
